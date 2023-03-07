@@ -1,4 +1,5 @@
-﻿int numberA = ImputNumber("Введите первое число", "Введено неверное значение");
+﻿Console.Clear();
+int numberA = ImputNumber("Введите первое число", "Введено неверное значение");
 int numberB = ImputNumber("Введите второе число", "Введено неверное значение");
 DegreeNumber(numberA, numberB);
 
@@ -11,7 +12,7 @@ void DegreeNumber(int num1, int num2)
     {
         result = result * num1;
     }
-    Console.WriteLine(result);
+    Console.WriteLine($"Число {num1} в степени {num2} - > {result}");
 }
 
 // Описание метода ImputNumber
