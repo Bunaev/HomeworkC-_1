@@ -10,11 +10,11 @@ Console.WriteLine($"[{String.Join(",", array)}]");
 int count = FindEvenNumbers(array);
 if (count == 0)
 {
-    Console.WriteLine("В задданом массиве отсутствуют четные элементы");
+    Console.WriteLine("В заданом массиве отсутствуют четные элементы");
 }
 else
 {
-    Console.WriteLine($"В задданом массиве {count} четных элементов");
+    Console.WriteLine($"В заданом массиве {count} четных элементов");
 }
 
 // Описание метода FindEvenNumbers
