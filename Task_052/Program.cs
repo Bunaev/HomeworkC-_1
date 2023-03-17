@@ -6,6 +6,7 @@ int rows = new Random().Next(3, 15);
 int columns = new Random().Next(3, 15);
 int[,] array = GetArray(rows, columns, 0, 10);
 PrintArray(array);
+Console.WriteLine();
 Average(array, rows, columns);
 
 // Описание метода GetArray
