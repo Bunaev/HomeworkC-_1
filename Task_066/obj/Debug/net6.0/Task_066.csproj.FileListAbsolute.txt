@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\bin\Debug\net6.0\Task_066.exe
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\bin\Debug\net6.0\Task_066.deps.json
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\bin\Debug\net6.0\Task_066.runtimeconfig.json
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\bin\Debug\net6.0\Task_066.dll
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\bin\Debug\net6.0\Task_066.pdb
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.AssemblyInfo.cs
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.dll
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\refint\Task_066.dll
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.pdb
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\Task_066.genruntimeconfig.cache
+C:\Users\Константин\Desktop\GB\Homewokr C#\Task_066\obj\Debug\net6.0\ref\Task_066.dll
